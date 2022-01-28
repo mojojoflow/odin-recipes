@@ -6,4 +6,4 @@ First [project](https://www.theodinproject.com/paths/foundations/courses/foundat
 
 The objective is meant demonstrate my ability to write html code
 
-[Live Preview](https://github.com/elixy/odin-recipes)
+[Live Preview](https://elixy.github.io/odin-recipes/)
